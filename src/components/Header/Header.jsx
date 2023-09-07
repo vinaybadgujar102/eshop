@@ -13,7 +13,7 @@ function Header() {
         <Link to="/" style={{ textDecoration:"none" }}>
           <div className="header__logo">
               <StorefrontIcon className="header__logoImage" fontSize="large"/>
-              <h2 className="header__logoTitle">eShop</h2>
+              <h2 className="header__logoTitle">AmazeCart</h2>
           </div>
         </Link>
           
